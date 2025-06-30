@@ -63,5 +63,5 @@ The arguments are:
 
 ## Running the Program
 - A Makefile with the `build`, `run` and `clean` rules is provided
-- Edit the checker.c file, declaring a vector of structures for testing (or use the default one)
+- Edit the `checker.c` file, declaring a vector of structures for testing (or use the default one)
 - From the terminal, enter `make run` and inspect the output
